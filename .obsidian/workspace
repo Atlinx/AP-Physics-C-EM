@@ -6,10 +6,28 @@
       {
         "id": "962eef4a6045ae0c",
         "type": "leaf",
+        "dimension": 66.3265306122449,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Inductors.md",
+            "mode": "source"
+          }
+        },
+        "group": "8d64f3d6688404bb"
+      },
+      {
+        "id": "5232101f8005574b",
+        "type": "leaf",
+        "dimension": 33.6734693877551,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inductors.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8d64f3d6688404bb"
       }
     ],
     "direction": "vertical"
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "pages/Differentials.md",
+    "Inductors.md",
+    "pages/Circuits.md",
     "Main.md",
-    "pages/Function-Related Integrals.md",
-    "pages/Average Area Below a Function.md",
-    "pages/Function Arc Length.md",
-    "pages/Polar Equations.md",
-    "pages/Limits.md",
-    "pages/L'Hopital's Rule.md",
-    "Alternating Series Test.md",
-    "pages/Convergence.md"
+    "pages/Superposition Principle.md",
+    "pages/Magnetism.md",
+    "Magnetic Force on a Moving Charge.md",
+    "Junction Rule.md",
+    "Loop Rule.md",
+    "Kirchhoff's Circuit Laws.md",
+    "Kirchoff's Circuit Laws.md"
   ]
 }
