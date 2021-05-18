@@ -28,6 +28,10 @@ $$\Huge L = \frac{N \Phi_B}{i}$$
 > **NOTE:**
 > $N\Phi_B$ is called **"magnetic flux linkage"** because the windings in the solenoid are said to be "linked" by the shared magnetic flux.
 
+The symbol of an inductor in a circuit is a coil like shape.
+
+![](attachments/inductor_symbol.png)
+
 ## Inductance Per Unit Length of Solenoid
 
 $$
@@ -49,6 +53,36 @@ $$
 ## Electric Potential in Inductor
 
 Although electric potentials do not exist for the area inside the self-induced E-field of the solenoid, we can still define electric potential at the terminals of the solendoid.
+
+
+## Series and Parallel Inductors
+
+> **NOTE:**
+> Inductors follow the same pattern as resistors, with inductors in series summing together their inductances while inductors in parallel using to "fraction summation" strategy.
+> 
+> This is the **opposite** pattern to capacitors.
+
+### Series
+
+$$
+\large
+\begin{aligned}
+
+L_\text{eq} &= L_1 + L_2 + L_3 + \ldots \\\\
+
+\end{aligned}
+$$
+
+### Parallel
+
+$$
+\large
+\begin{aligned}
+
+L_\text{eq} &= \left( \frac{1}{L_1} + \frac{1}{L_2} + \frac{1}{L_3} + \ldots \right)^{-1} \\\\
+
+\end{aligned}
+$$
 
 ## Energy Stored in an Inductor
 
