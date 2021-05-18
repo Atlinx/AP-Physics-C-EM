@@ -1,4 +1,0 @@
-Tags: #Topic #TODO 
-
-# Inductor
-

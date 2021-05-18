@@ -8,14 +8,14 @@ The closed loop that you integrate around is called an **"Amperian Path"** or an
 
 The formula for Ampere's Law is
 
-$$\Huge \oint \vec B \cdot d \vec l = \mu_0 I_\text{enc}$$
+$$\Huge \oint \vec B \cdot d \vec s = \mu_0 I_\text{enc}$$
 
 > **LEGEND:**
 > $\oint$ - This unique integral symbol indicates that we are integrating over a closed path.
 > 
 > $\vec B$ - The magnetic field at a point on the amperian path.
 > 
-> $d \vec l$ - A small change in length on a point on the loop.
+> $d \vec s$ - A small change in length on a point on the loop.
 > 
 > $\mu_0$ - The permeability of free space. This is a constant that is $\approx 4\pi \times 10^{-7} \frac{Tm}{A}$. 
 > > **NOTE:**

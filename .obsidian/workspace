@@ -6,11 +6,11 @@
       {
         "id": "962eef4a6045ae0c",
         "type": "leaf",
-        "dimension": 66.3265306122449,
+        "dimension": 65.81632653061224,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inductors.md",
+            "file": "pages/RL-Circuits.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "5232101f8005574b",
         "type": "leaf",
-        "dimension": 33.6734693877551,
+        "dimension": 34.183673469387756,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inductors.md",
+            "file": "pages/RL-Circuits.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inductors.md",
+                "file": "pages/RL-Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "Inductors.md",
-    "pages/Circuits.md",
-    "Main.md",
-    "pages/Superposition Principle.md",
+    "RL-Circuits.md",
+    "Mutual Induction.md",
+    "pages/Induction.md",
+    "Pasted image 20210518004707.png",
+    "Self-Induction.md",
     "pages/Magnetism.md",
-    "Magnetic Force on a Moving Charge.md",
-    "Junction Rule.md",
-    "Loop Rule.md",
-    "Kirchhoff's Circuit Laws.md",
-    "Kirchoff's Circuit Laws.md"
+    "Main.md",
+    "README.md",
+    "pages/Inductors.md",
+    "pages/Circuits.md"
   ]
 }

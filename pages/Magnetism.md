@@ -9,11 +9,9 @@ Magnets arise on the microscopic level from spinning electrons. In non-magnetic 
 **Magnetic Field** - A field that describes the magnetic influence on a moving charge placed at any position in the field. Magnetic fields are commonly called **B-fields**.
 
 #### [[Magnetic Field Around a Current-Carrying Wire]]
-
 #### [[Magnetic Force on a Moving Charge]]
-
 #### [[Magnetic Force on a Current-Carrying Wire]]
-
 #### [[Ampere's Law]]
-
 #### [[Bio-Savart Law]]
+#### [[Induction]]
+
