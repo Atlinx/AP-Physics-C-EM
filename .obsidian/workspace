@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/RL-Circuits.md",
+            "file": "pages/Inductors.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/RL-Circuits.md",
-            "mode": "preview"
+            "file": "pages/Inductors.md",
+            "mode": "source"
           }
         },
         "group": "8d64f3d6688404bb"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link",
+                "query": "induc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/RL-Circuits.md",
+                "file": "pages/Inductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "RL-Circuits.md",
-    "Mutual Induction.md",
-    "pages/Induction.md",
-    "Pasted image 20210518004707.png",
-    "Self-Induction.md",
-    "pages/Magnetism.md",
-    "Main.md",
-    "README.md",
     "pages/Inductors.md",
-    "pages/Circuits.md"
+    "pages/Circuits.md",
+    "pages/Loop Rule.md",
+    "pages/Magnetic Field Inside Current-Carrying Wire.md",
+    "pages/Magnetic Force on a Moving Charge.md",
+    "Inductors.md",
+    "pages/Superposition Principle.md",
+    "pages/Self-Induction.md",
+    "README.md",
+    "RL-Circuits.md"
   ]
 }
