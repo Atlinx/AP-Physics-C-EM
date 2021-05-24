@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/RL-Circuits.md",
+            "file": "pages/Superposition Principle.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/RL-Circuits.md",
+            "file": "pages/Superposition Principle.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/RL-Circuits.md",
+                "file": "pages/Superposition Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
+    "pages/Superposition Principle.md",
+    "pages/Self-Induction.md",
+    "pages/Magnetism.md",
     "pages/RL-Circuits.md",
     "pages/Electric Potential.md",
     "pages/Electric Fields.md",
     "pages/Inductors.md",
-    "pages/Superposition Principle.md",
     "pages/Magnetic Field Inside Current-Carrying Wire.md",
     "pages/Circuits.md",
-    "Resistors.md",
-    "Capacitors.md",
-    "pages/Kirchhoff's Circuit Laws.md"
+    "Resistors.md"
   ]
 }
