@@ -48,3 +48,5 @@ E_x &= \frac{\partial V}{\partial x} = 4x\\
 E_y &= \frac{\partial V}{\partial y} = -6y\\
 \end{aligned}
 > $$
+
+## [[Electric Potential due to a Continous Charge Distribution]]

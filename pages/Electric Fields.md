@@ -15,3 +15,5 @@ Electric fields are commonly represented by **vector fields**, which are a grid 
 $$\Huge E = \frac{kq}{r^2}$$
 
 Electric field strength follows the [[Superposition Principle]]. That is, the net electric field strength at a given position is equal to the electric field strength caused by each individual charge.
+
+## [[Electric Field due to a Continous Charge Distribution]]

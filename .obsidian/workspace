@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "962eef4a6045ae0c",
+        "id": "460c9d6df4e5b9f2",
         "type": "leaf",
-        "dimension": 65.81632653061224,
+        "dimension": 67.9915209326974,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Superposition Principle.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
-        "group": "8d64f3d6688404bb"
+        "group": "9a675a897b049f96"
       },
       {
-        "id": "5232101f8005574b",
+        "id": "c7fcc14a8e341137",
         "type": "leaf",
-        "dimension": 34.183673469387756,
+        "dimension": 32.008479067302595,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Superposition Principle.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
-        "group": "8d64f3d6688404bb"
+        "group": "9a675a897b049f96"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Superposition Principle.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "962eef4a6045ae0c",
+  "active": "460c9d6df4e5b9f2",
   "lastOpenFiles": [
+    "Main.md",
+    "pages/Magnetism.md",
     "pages/Superposition Principle.md",
     "pages/Self-Induction.md",
-    "pages/Magnetism.md",
-    "pages/RL-Circuits.md",
-    "pages/Electric Potential.md",
-    "pages/Electric Fields.md",
-    "pages/Inductors.md",
-    "pages/Magnetic Field Inside Current-Carrying Wire.md",
-    "pages/Circuits.md",
-    "Resistors.md"
+    "pages/Mutual Induction.md",
+    "attachments/magnetic_force_on_current_carrying_loop.png",
+    "attachments/junction_rule.png",
+    "attachments/magnetic_field_inside_current_carrying_wire.png",
+    "attachments/inductor_symbol.png",
+    "attachments/finding_magnetic_flux_tips.png"
   ]
 }
