@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Circuits.md",
+            "file": "pages/RL-Circuits.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Circuits.md",
+            "file": "pages/RL-Circuits.md",
             "mode": "preview"
           }
         },
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Circuits.md",
+                "file": "pages/RL-Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
+    "pages/RL-Circuits.md",
+    "pages/Electric Potential.md",
+    "pages/Electric Fields.md",
+    "pages/Inductors.md",
+    "pages/Superposition Principle.md",
+    "pages/Magnetic Field Inside Current-Carrying Wire.md",
     "pages/Circuits.md",
     "Resistors.md",
-    "pages/Inductors.md",
     "Capacitors.md",
-    "pages/Kirchhoff's Circuit Laws.md",
-    "pages/Ampere's Law.md",
-    "pages/RL-Circuits.md",
-    "pages/Self-Induction.md",
-    "attachments/inductor_symbol.png",
-    "Pasted image 20210518142308.png"
+    "pages/Kirchhoff's Circuit Laws.md"
   ]
 }
