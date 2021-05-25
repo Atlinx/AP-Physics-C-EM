@@ -10,4 +10,4 @@ The amount of current flowing into a junction is equal to the amount of current 
 > 
 > $$\Large I_1 = I_2+ I_3 $$
 > 
-> ![](attachments/junction_rule.png)
+> ![](../attachments/junction_rule.png)

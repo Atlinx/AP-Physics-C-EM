@@ -26,4 +26,4 @@ B &= \frac{\mu_0 I_\text{enc}}{2 \pi r} \\
 \end{aligned}
 $$
 
- ![](attachments/magnetic_field_inside_current_carrying_wire.png)
+ ![](../attachments/magnetic_field_inside_current_carrying_wire.png)

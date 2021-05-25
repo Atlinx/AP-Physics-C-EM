@@ -27,4 +27,4 @@ V_\text{net} &= 0 \\
 \end{aligned}
 > $$
 >
-> ![](attachments/loop_rule.png)
+> ![](../attachments/loop_rule.png)

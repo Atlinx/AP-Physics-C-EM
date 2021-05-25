@@ -50,7 +50,7 @@ If the area of interest encloses a uniform magnetic field, make sure to use the 
 > 
 > Note that $\Phi_{A_2} \neq B \cdot A_2$, since $A_2$ also includes points where $B=0$.
 > 
-> ![](attachments/finding_magnetic_flux_tips.png)
+> ![](../attachments/finding_magnetic_flux_tips.png)
 
 ## Magnetic Flux Density
 

@@ -36,9 +36,9 @@ $$
 
 Following the diagram below.
 
-![](attachments/e_field_ring_of_charge.png)
+![](../attachments/e_field_ring_of_charge.png)
 
 > **NOTE:**
 > We have $\cos \theta$ because the $y$ component of each charge cancels out.
 > 
-> ![](attachments/e_field_ring_of_charge_cancel.png)
+> ![](../attachments/e_field_ring_of_charge_cancel.png)

@@ -18,4 +18,4 @@ $$\Huge \mathcal{E}_L = -L \cdot \frac{di}{dt}$$
 > 
 > Is negative to signify that the direction of $\mathcal{E}_L$ opposes the change in current through the inductor. This direction can be found using [[Lenz's Law]].
 
-![](attachments/self_induced_emf.png)
+![](../attachments/self_induced_emf.png)

@@ -21,7 +21,7 @@ The most common kind of capacitor is a parallel plate capacitor. These capacitor
 
 The circuit symbol for a capacitor comes from the shape of parallel plate capacitors, with two separated lines representing the two plates.
 
-![](attachments/capacitor_symbol.png)
+![](../attachments/capacitor_symbol.png)
 
 ## Series and Parallel Capacitors
 

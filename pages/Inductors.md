@@ -30,7 +30,7 @@ $$\Huge L = \frac{N \Phi_B}{i}$$
 
 The symbol of an inductor in a circuit is a coil like shape.
 
-![](attachments/inductor_symbol.png)
+![](../attachments/inductor_symbol.png)
 
 ## Inductance Per Unit Length of Solenoid
 

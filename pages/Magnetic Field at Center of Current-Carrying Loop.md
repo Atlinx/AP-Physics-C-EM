@@ -28,7 +28,7 @@ $$
 > **NOTE:**
 > You cannot use [[Ampere's Law]] to find the B-field at the center of a current-carrying loop since a circular Amperian path at the center would not enclose any current at all.
 
-![](attachments/magnetic_field_at_center_of_current_carrying_loop.png)
+![](../attachments/magnetic_field_at_center_of_current_carrying_loop.png)
 
 ## Partial Loop
 

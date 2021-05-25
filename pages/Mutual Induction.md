@@ -6,7 +6,7 @@ When a coil with a changing current generates a B-field that induces a current a
 
 Given the following diagram,
 
-![](attachments/mutual_induction.png)
+![](../attachments/mutual_induction.png)
 
 The mutual inductance of coil 2 is with respect to coil 1 is
 

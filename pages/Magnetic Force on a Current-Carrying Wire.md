@@ -27,7 +27,7 @@ We can use the right-hand rule to figure out the direction of $F_B$ on a current
 
 In general, a current carrying loop wants to orient itself perpendicularly with the B-field. However if you want to know which side of the loop is on the top/bottom, you would have to use $F=I \vec L \times \vec B$.
 
-![](attachments/magnetic_force_on_current_carrying_loop.png)
+![](../attachments/magnetic_force_on_current_carrying_loop.png)
 
 The actual torque on a current-carrying loop can be found using
 
