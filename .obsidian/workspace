@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Electric Potential.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Electric Potential.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "pages/Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "460c9d6df4e5b9f2",
   "lastOpenFiles": [
-    "Main.md",
-    "pages/Superposition Principle.md",
-    "pages/Magnetism.md",
+    "pages/Electric Potential.md",
+    "pages/Electric Potential due to a Continous Charge Distribution.md",
+    "pages/Electric Potential Energy.md",
+    "pages/Electric Field due to a Continous Charge Distribution.md",
     "pages/Self-Induction.md",
-    "pages/Mutual Induction.md",
-    "attachments/magnetic_force_on_current_carrying_loop.png",
-    "attachments/junction_rule.png",
-    "attachments/magnetic_field_inside_current_carrying_wire.png",
-    "attachments/inductor_symbol.png",
-    "attachments/finding_magnetic_flux_tips.png"
+    "pages/Energy.md",
+    "Conservation of Energy.md",
+    "pages/Bio-Savart Law.md",
+    "pages/Eddy Currents.md",
+    "pages/Electricity.md"
   ]
 }

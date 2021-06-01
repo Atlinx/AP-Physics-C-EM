@@ -30,6 +30,8 @@ $$\Huge K = \frac{1}{2}mv^2$$
 > $m$ - Mass of the moving object.
 > $v$ - Velocity of the moving object.
 
+## [[Conservation of Energy]]
+
 ## Power
 
 **Power** ($P$ : Scalar | $W$, $\frac{J}{s}$) - The rate at which work is done or the rate at which energy is transferred from one form to another.
