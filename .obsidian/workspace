@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Electric Potential.md",
+            "file": "pages/Eddy Currents.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Electric Potential.md",
+            "file": "pages/Eddy Currents.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Electric Potential.md",
+                "file": "pages/Eddy Currents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "460c9d6df4e5b9f2",
+  "active": "c7fcc14a8e341137",
   "lastOpenFiles": [
+    "pages/Eddy Currents.md",
+    "pages/RL-Circuits.md",
+    "Conservation of Energy.md",
     "pages/Electric Potential.md",
     "pages/Electric Potential due to a Continous Charge Distribution.md",
     "pages/Electric Potential Energy.md",
     "pages/Electric Field due to a Continous Charge Distribution.md",
     "pages/Self-Induction.md",
     "pages/Energy.md",
-    "Conservation of Energy.md",
-    "pages/Bio-Savart Law.md",
-    "pages/Eddy Currents.md",
-    "pages/Electricity.md"
+    "pages/Bio-Savart Law.md"
   ]
 }

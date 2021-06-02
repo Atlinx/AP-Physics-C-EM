@@ -41,7 +41,7 @@ When you take a partial derivative of an equation with respect to a given variab
 
 > **Ex.**
 > $$
-\large
+\Large
 \begin{aligned} 
 V &= 2x^2 - 3y^2 \\\\
 E_x &= \frac{\partial V}{\partial x} = 4x\\

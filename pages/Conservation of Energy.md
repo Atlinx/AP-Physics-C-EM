@@ -4,6 +4,6 @@ Tags: #Theorem
 
 The total amount of energy in a closed system stays constant.
 
-A common energy equations is
+A common energy equation is
 
 $$\Large E = U + K$$
