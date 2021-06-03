@@ -6,7 +6,7 @@ RL-circuits are circuits involving inductors, resistors, batteries, and switches
 
 ## Transient Equations
  
-**Inductor Time Constant** ($\tau$) - The time required for the current to change by 60% of it's maximum value starting at $t=0$.
+**Inductor Time Constant** ($\tau_L$) - The time required for the current to change by 60% of it's maximum value starting at $t=0$.
 
 $$\Large \tau_L = \frac{L}{R}$$
 
