@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "460c9d6df4e5b9f2",
-        "type": "leaf",
-        "dimension": 67.9915209326974,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Magnetic Field at Center of Current-Carrying Loop.md",
-            "mode": "source"
-          }
-        },
-        "group": "9a675a897b049f96"
-      },
-      {
         "id": "c7fcc14a8e341137",
         "type": "leaf",
-        "dimension": 32.008479067302595,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Magnetic Field at Center of Current-Carrying Loop.md",
+            "file": "Main.md",
             "mode": "preview"
           }
-        },
-        "group": "9a675a897b049f96"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Magnetic Field at Center of Current-Carrying Loop.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "460c9d6df4e5b9f2",
+  "active": "c7fcc14a8e341137",
   "lastOpenFiles": [
+    "Main.md",
+    "Charging.md",
+    "pages/Electricity.md",
     "pages/Magnetic Field at Center of Current-Carrying Loop.md",
     "pages/Bio-Savart Law.md",
     "pages/Self-Induction.md",
     "pages/Mutual Induction.md",
     "pages/Junction Rule.md",
     "pages/Kirchhoff's Circuit Laws.md",
-    "pages/Faraday's Law of Induction.md",
-    "RC-Circuits.md",
-    "pages/Circuits.md",
-    "pages/RL-Circuits.md"
+    "pages/Faraday's Law of Induction.md"
   ]
 }

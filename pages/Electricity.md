@@ -19,6 +19,7 @@ Protons and electrons have the **same magnitude** of charge but have different s
 
 **Test Charge** - A charge with an extremely small magnitude that is used to measure or "test" the the electric field strength at a position. Test charges are postive by convention.
 
+#### [[Charging]]
 #### [[Electric Force]]
 #### [[Electric Fields]]
 #### [[Electric Potential Energy]]
